@@ -1,0 +1,3 @@
+[submodule "precio_en_dolares"]
+	path = precio_en_dolares
+	url = https://github.com/humanytek-team/precio_en_dolares
