@@ -7,3 +7,6 @@
 [submodule "ideas_daily_sales_report"]
 	path = ideas_daily_sales_report
 	url = https://github.com/humanytek-team/ideas_daily_sales_report
+[submodule "acc_formats_ideas"]
+	path = acc_formats_ideas
+	url = https://github.com/humanytek-team/acc_formats_ideas
