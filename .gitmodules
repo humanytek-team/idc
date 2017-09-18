@@ -10,3 +10,6 @@
 [submodule "acc_formats_ideas"]
 	path = acc_formats_ideas
 	url = https://github.com/humanytek-team/acc_formats_ideas
+[submodule "sale_formats_ideas"]
+	path = sale_formats_ideas
+	url = https://github.com/humanytek-team/sale_formats_ideas
