@@ -13,3 +13,6 @@
 [submodule "sale_formats_ideas"]
 	path = sale_formats_ideas
 	url = https://github.com/humanytek-team/sale_formats_ideas
+[submodule "purchase_formats_ideas"]
+	path = purchase_formats_ideas
+	url = https://github.com/humanytek-team/purchase_formats_ideas
